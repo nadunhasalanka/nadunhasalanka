@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Js, JAVA SpringBoot, Python automation & Web Scrapping**
 
-- 📫 How to reach me **nadun30669@gmail.com**
+- 📫 How to reach me **nadun.has02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
